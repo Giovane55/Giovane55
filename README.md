@@ -8,7 +8,7 @@
 
 ◦  🔖 Visite <a href="https://giovane-breno.github.io/Portfolio/">meu portifólio</a> para ver meus projetos!
 
-◦ ⛵ <strong>"A smooth sea never made a skilled sailor."
+◦ ⛵ <strong>A smooth sea never made a skilled sailor.</strong>
 
 <div>
   <a href="https://github.com/giovane-breno">
