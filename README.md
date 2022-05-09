@@ -6,7 +6,9 @@
 
 ◦ 🙋 Otimista por bons resultados.
 
-◦ 🔖 Visite <a href="https://giovane-breno.github.io/Portfolio/">meu portifólio</a> para ver meus projetos!
+◦  🔖 Visite <a href="https://giovane-breno.github.io/Portfolio/">meu portifólio</a> para ver meus projetos!
+
+◦ ⛵ <strong>"A smooth sea never made a skilled sailor."
 
 <div>
   <a href="https://github.com/giovane-breno">
