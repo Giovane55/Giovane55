@@ -1,6 +1,12 @@
 ## Bem-vindo ao meu perfil! <br>Prazer, Giovane.👋
 
+◦ 🌐 Desenvolvedor Web.
 
+◦ 💻 Estudante da Programação.
+
+◦ 🙋 Otimista por bons resultados.
+
+◦ 🔖 Visite <a href="https://giovane-breno.github.io/Portfolio/">meu portifólio</a> para ver meus projetos!
 
 <div>
   <a href="https://github.com/giovane-breno">
