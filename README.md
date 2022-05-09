@@ -1,5 +1,5 @@
-## Bem-vindo ao meu perfil!
-## Prazer, Giovane.👋
+## Bem-vindo ao meu perfil! <br>Prazer, Giovane.👋
+
 
 
 <div>
