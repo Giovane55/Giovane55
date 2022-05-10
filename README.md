@@ -40,7 +40,7 @@
  ### ● 📅 Banco de Dados
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
- ![phpMyAdmin](https://img.shields.io/badge/-phpNyAdmin-333333?style=flat&logo=phpmyadmin)
+ ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333333?style=flat&logo=phpmyadmin)
 
  
   ## 🤖 Github Stats
