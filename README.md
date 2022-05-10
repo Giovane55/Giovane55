@@ -37,8 +37,9 @@
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
 
+ ##
  
- ## 👇  Entre em contato!
+ ## ☎️  Entre em contato!
 [![Linkedin: Giovane Breno](https://img.shields.io/badge/-Giovane_Breno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-breno)](https://www.linkedin.com/in/giovane-breno)
 [![Gmail Badge](https://img.shields.io/badge/-giovane.breno@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovane.breno@gmail.com)](mailto:giovane.breno@gmail.com)
 [![GitHub Giovane Breno]( https://img.shields.io/github/followers/giovane-breno?label=follow&style=social)](https://github.com/giovane-breno) 
@@ -52,9 +53,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giovane-breno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovane-breno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-  ##
- 
  
  ##
 
