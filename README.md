@@ -15,7 +15,7 @@
 
  ## Tecnologias que já utilizei
 
- ### &nbsp; Desenvolvimento Web ❤️
+ ### ● Desenvolvimento Web ❤️
  ![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
  ![Django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -24,16 +24,16 @@
  
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  
- ### &nbsp; Desenvolvimento Software
+ ### ● Desenvolvimento Software
  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
  ![CSharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
 
 
- ### &nbsp; Desenvolvimento Mobile
+ ### ● Desenvolvimento Mobile
  ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
  ![AndroidStudio](https://img.shields.io/badge/-androidstudio-333333?style=flat&logo=androidstudio)
  
- ### &nbsp; Banco de Dados
+ ### ● Banco de Dados
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
 
