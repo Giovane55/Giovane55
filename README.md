@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=giovane-breno&color=006bed)
+
+
 ## Bem-vindo ao meu perfil! <br>Prazer, Giovane.👋
 
 ◦ 🌐 Desenvolvedor Web.
