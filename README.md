@@ -10,6 +10,8 @@
 
 ◦ ⛵ <strong>A smooth sea never made a skilled sailor.</strong>
 
+ ##
+ 
 <div>
   <a href="https://github.com/giovane-breno">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giovane-breno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
