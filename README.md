@@ -38,7 +38,10 @@
  ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
 
  
- 
+ ## 👇  Entre em contato!
+[![Linkedin: Giovane Breno](https://img.shields.io/badge/-Giovane_Breno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-breno)](https://www.linkedin.com/in/giovane-breno)
+[![Gmail Badge](https://img.shields.io/badge/-giovane.breno@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovane.breno@gmail.com)](mailto:giovane.breno@gmail.com)
+[![GitHub Giovane Breno]( https://img.shields.io/github/followers/giovane-breno?label=follow&style=social)](https://github.com/giovane-breno) 
  
 ##
 
@@ -52,10 +55,7 @@
 
   ##
  
- ## 👇  Entre em contato!
-[![Linkedin: Giovane Breno](https://img.shields.io/badge/-Giovane_Breno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-breno)](https://www.linkedin.com/in/giovane-breno)
-[![Gmail Badge](https://img.shields.io/badge/-giovane.breno@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovane.breno@gmail.com)](mailto:giovane.breno@gmail.com)
-[![GitHub Giovane Breno]( https://img.shields.io/github/followers/giovane-breno?label=follow&style=social)](https://github.com/giovane-breno) 
+ 
  ##
 
 ![Snake animation](https://github.com/giovane-breno/giovane-breno/blob/output/github-contribution-grid-snake.svg)
