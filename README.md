@@ -16,26 +16,32 @@
  ## 🛠️ Tecnologias que já utilizei
 
  ### ● 🌐 Desenvolvimento Web ❤️
- ![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
- ![Django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
+ ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+ ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
- ![JQuery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery)
+ ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
  
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
  
  ### ● 🖥️ Desenvolvimento Software
- ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
- ![CSharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
+ ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+ ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+ ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+
 
 
  ### ● 📱 Desenvolvimento Mobile
- ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
- ![AndroidStudio](https://img.shields.io/badge/-androidstudio-333333?style=flat&logo=androidstudio)
+ ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+ ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=androidstudio)
  
  ### ● 📅 Banco de Dados
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
- ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
+ ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+ ![phpMyAdmin](https://img.shields.io/badge/-phpNyAdmin-333333?style=flat&logo=phpmyadmin)
+
  
   ## 🤖 Github Stats
   
@@ -56,7 +62,8 @@
 
 
  
-
+<details>
+  <summary>🐍 Snake Game</summary>
 
 ![Snake animation](https://github.com/giovane-breno/giovane-breno/blob/output/github-contribution-grid-snake.svg)
-
+</details
