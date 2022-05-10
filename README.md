@@ -53,7 +53,7 @@
   ##
  
  ## 👇  Entre em contato!
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-'Giovane-Breno'-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-breno)](https://www.linkedin.com/in/giovane-breno)
+[![Linkedin: Giovane Breno](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-breno)](https://www.linkedin.com/in/giovane-breno)
 [![Gmail Badge](https://img.shields.io/badge/-giovane.breno@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovane.breno@gmail.com)](mailto:giovane.breno@gmail.com)
 [![GitHub Giovane Breno]( https://img.shields.io/github/followers/giovane-breno?label=follow&style=social)](https://github.com/giovane-breno) 
  ##
