@@ -14,7 +14,7 @@
 ◦ ⛵ <strong>A smooth sea never made a skilled sailor.</strong>
 
  ## Tecnologias que já utilizei
- <div>
+
  ### Desenvolvimento Web ❤️
  ![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
  ![Django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
@@ -26,6 +26,8 @@
  
  ### Desenvolvimento Software
  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
+ ![CSharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
+
 
  ### Desenvolvimento Mobile
  ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
@@ -33,9 +35,8 @@
  
  ### Banco de Dados
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
- ![Firebase](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+ ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
 
-</div>
  
  
  
