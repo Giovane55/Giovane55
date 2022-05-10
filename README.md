@@ -13,9 +13,9 @@
 
 ◦ ⛵ <strong>A smooth sea never made a skilled sailor.</strong>
 
- ## Tecnologias que já utilizei
+ ## 🛠️ Tecnologias que já utilizei
 
- ### ● Desenvolvimento Web ❤️
+ ### ● 🌐 Desenvolvimento Web ❤️
  ![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
  ![Django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -24,23 +24,23 @@
  
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  
- ### ● Desenvolvimento Software
+ ### ● 🖥️ Desenvolvimento Software
  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
  ![CSharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
 
 
- ### ● Desenvolvimento Mobile
+ ### ● 📱 Desenvolvimento Mobile
  ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
  ![AndroidStudio](https://img.shields.io/badge/-androidstudio-333333?style=flat&logo=androidstudio)
  
- ### ● Banco de Dados
+ ### ● 📅 Banco de Dados
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
 
  
  
  
-
+##
 
 
  
@@ -51,6 +51,12 @@
 </div>
 
   ##
+ 
+ ## 👇  Entre em contato!
+[![Linkedin: Giovane Breno](https://img.shields.io/badge/-giovane-breno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-breno/)](https://www.linkedin.com/in/giovane-breno/)
+[![Gmail Badge](https://img.shields.io/badge/-giovane.breno@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovane.breno@gmail.com)](mailto:giovane.breno@gmail.com)
+[![GitHub Giovane Breno]( https://img.shields.io/github/followers/giovane-breno?label=follow&style=social)](https://github.com/giovane-breno) 
+ ##
 
 ![Snake animation](https://github.com/giovane-breno/giovane-breno/blob/output/github-contribution-grid-snake.svg)
 
