@@ -7,7 +7,7 @@
 
 ◦ 💻 Estudante da Programação.
 
-◦ 🙋 Otimista por bons resultados.
+◦ 🙋 Otimista sempre!
 
 ◦  🔖 Visite <a href="https://giovane-breno.github.io/Portfolio/">meu portifólio</a> para ver meus projetos!
 
