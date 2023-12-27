@@ -8,13 +8,13 @@
 </div>
 <br>
 <p align="center">
-  <a>
+  <a href="https://giovane-breno.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white&link=https://giovane-breno.github.io/Portfolio/"/>
  </a>
- <a>
+ <a href="https://www.linkedin.com/in/giovane-breno" target="_blank">
   <img src="https://img.shields.io/badge/giovane_barbosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-breno" />
  </a>
- <a>
+ <a href="mailto:giovane.breno@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/giovane.breno@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:giovane.breno@gmail.com"/>
  </a>
 
@@ -47,3 +47,4 @@
   <a href="https://github.com/giovane-breno">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giovane-breno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+       
